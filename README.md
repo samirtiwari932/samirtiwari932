@@ -1,6 +1,3 @@
-
-Certainly! Here's some content you can use for your GitHub profile README:
-
 👋 Hi there, I'm Samir Tiwari! Welcome to my GitHub profile.
 
 👀 I'm passionate about web development and love crafting beautiful and functional experiences on the web.
