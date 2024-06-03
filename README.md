@@ -6,13 +6,10 @@
 
 🚀 Experience:
 Over 2 years of experience in frontend development.
-Proficient in HTML, CSS, Tailwind CSS, JavaScript.
-Experienced with Angular, including state management with NgRx.
+Proficient in HTML, CSS, Tailwind CSS, JavaScript React and Redux for state management
 Skilled in version control using Git and GitHub.
 Familiar with React.js and exploring Next.js for server-rendered React applications.
 
-🔍 Current Focus:
-Actively learning React Native to expand my expertise into mobile app development.
 
 💼 Looking to Collaborate:
 I'm eager to collaborate on learning projects or web development ventures. If you have an exciting project in mind or simply want to brainstorm ideas, feel free to reach out!
@@ -25,7 +22,7 @@ LinkedIn:linkedin.com/in/sameer-tiwari-profile
 📊 Skills & Technologies:
 HTML | CSS | Tailwind CSS | JavaScript
 Angular | NgRx | React.js | Next.js
-Git | GitHub]
+Git | GitHub | Redux 
 
 🎯 Goals:
 Continuously improve my skills and stay updated with the latest trends in web development.
