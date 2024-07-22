@@ -5,10 +5,10 @@
 🌱 Currently, I'm diving deep into full-stack development, honing my skills across various technologies to build robust and scalable web applications.
 
 🚀 Experience:
-Over 2 years of experience in frontend development.
+Over 3 years of experience in frontend development.
 Proficient in HTML, CSS, Tailwind CSS, JavaScript React and Redux for state management
 Skilled in version control using Git and GitHub.
-Familiar with React.js and exploring Next.js for server-rendered React applications.
+Familiar with React.js and  Next.js for server-rendered React applications.
 
 
 💼 Looking to Collaborate:
